@@ -1,9 +1,9 @@
 ## Formulas
 
-**Sum of $n$ consecutive positive integers**
+**Sum of $n$ consecutive positive integers** 
 $$1+2+ \dots + n = \frac{n \cdot (n+1)}{2}$$
 
-**Last multiple of $k$ below $n$**
+**Last multiple of $k$ below $n$**  
 $$\frac{n-1}{k}$$
 
 ## Concepts
