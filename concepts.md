@@ -1,10 +1,18 @@
 ## Formulas
 
-**Sum of $n$ consecutive positive integers** 
+**Sum of $n$ consecutive positive integers:**  
 $$1+2+ \dots + n = \frac{n \cdot (n+1)}{2}$$
 
-**Last multiple of $k$ below $n$**  
+**Last multiple of $k$ below $n$:**  
 $$\frac{n-1}{k}$$
+
+**Relationship between GCD and LCM:**  
+$$\text{lcm(a,b)} = \frac{a \cdot b}{\text{gcd(a,b)}}$$
+The product includes all prime factors of both, but possibly with duplicates. Dividing by $\text{gcd(a, b)}$ removes the overlap (the common factors counted twice).
+
+**Sum of squares of n consecutive positive integers:**  
+The sum of the squares of the first $n$ natural numbers is the $n$-th square pyramidal number  
+$$1^2 + 2^2 + \dots + n^2 = \frac{n \cdot (n+1)\cdot (2n+1)}{6}$$
 
 ## Concepts
 
